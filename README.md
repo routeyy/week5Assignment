@@ -1,0 +1,1 @@
+"This lab creates an interface "Logger" with two methods. Two classes, "AsteriskLogger" and "SpacedLogger", will implement the aforementioned interface. The main point resides within "App", which will call upon the two classes." 
